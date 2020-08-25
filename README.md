@@ -100,7 +100,7 @@
 
 **`Python` `mid-level`**
  1. insert an element in a specific position in doubly linked list
- 2. Take n as input and check which ones are Armstrong number using a function in the range 1 to n
+ 2. Delete an element from a given position in doubly linked list
  3. Write a function to calculate GCD of two numbers and then call the function to get GCD of 4 numbers
  4. Take a paragraph as input and then replace all the “the” word with “THE”
  5. Take a paragraph as input and then check whether a specific word is present in the paragraph or not. the word also should be user input
