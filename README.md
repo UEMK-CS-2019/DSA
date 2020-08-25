@@ -96,3 +96,28 @@
  
  <h1 align="center">.</h1>
 
+### [Week-6](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-7)
+
+**`Python` `mid-level`**
+ 1. ### [Week-6](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-6)
+
+**`C` `mid-level`**
+ 1. Write program to find the prime numbers in a range using function
+ 2. Take n as input and check which ones are Armstrong number using a function in the range 1 to n
+ 3. Write a function to calculate GCD of two numbers and then call the function to get GCD of 4 numbers
+ 4. Take a paragraph as input and then replace all the “the” word with “THE”
+ 5. Take a paragraph as input and then check whether a specific word is present in the paragraph or not. the word also should be user input
+ 6. Take a paragraph as input and then delete all the white spaces at the beginning and the end of the paragraph
+ 7. Take a sentence as input. Take two integer numbers as input. Print the substring starting and ending at the positions same as those numbers
+ 8. Given 2 strings, str1, and str2 return a new string made of the first, middle and last char of each of the input strings. characters from the 1st srting will be in lowercase and characters from the 2nd srting will be in uppercase
+ 
+ <h1 align="center">.</h1>
+ 2. Take n as input and check which ones are Armstrong number using a function in the range 1 to n
+ 3. Write a function to calculate GCD of two numbers and then call the function to get GCD of 4 numbers
+ 4. Take a paragraph as input and then replace all the “the” word with “THE”
+ 5. Take a paragraph as input and then check whether a specific word is present in the paragraph or not. the word also should be user input
+ 6. Take a paragraph as input and then delete all the white spaces at the beginning and the end of the paragraph
+ 7. Take a sentence as input. Take two integer numbers as input. Print the substring starting and ending at the positions same as those numbers
+ 8. Given 2 strings, str1, and str2 return a new string made of the first, middle and last char of each of the input strings. characters from the 1st srting will be in lowercase and characters from the 2nd srting will be in uppercase
+ 
+ <h1 align="center">.</h1>
