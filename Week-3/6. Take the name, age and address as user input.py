@@ -1,0 +1,6 @@
+name=str(input())
+age=int(input())
+address=str(input())
+print(name)
+print(age)
+print(address)
