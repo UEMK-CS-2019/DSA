@@ -1,0 +1,13 @@
+string1=input()
+string2=input()
+len1=len(string1)
+len2=len(string2)
+mid1=len1//2
+mid2=len2//2
+string2=string2.upper()
+print(string1[0],end="")
+print(string2[0],end="")
+print(string1[mid1],end="")
+print(string2[mid2],end="")
+print(string1[len1-1],end="")
+print(string2[len2-1],end="")
