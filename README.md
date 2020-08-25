@@ -101,12 +101,12 @@
 **`Python` `mid-level`**
  1. insert an element in a specific position in doubly linked list
  2. Delete an element from a given position in doubly linked list
- 3. Write a function to calculate GCD of two numbers and then call the function to get GCD of 4 numbers
- 4. Take a paragraph as input and then replace all the “the” word with “THE”
- 5. Take a paragraph as input and then check whether a specific word is present in the paragraph or not. the word also should be user input
- 6. Take a paragraph as input and then delete all the white spaces at the beginning and the end of the paragraph
- 7. Take a sentence as input. Take two integer numbers as input. Print the substring starting and ending at the positions same as those numbers
- 8. Given 2 strings, str1, and str2 return a new string made of the first, middle and last char of each of the input strings. characters from the 1st srting will be in lowercase and characters from the 2nd srting will be in uppercase
+ 3. Insert at the beginning and at the end of a doubly linked list
+ 4. Insert elements at the end and the beginning of a circular linked list
+ 5. delete an element from a given position in cicular linked list
+ 6. Given two sorted doubly linked lists. Merge them into a single one without creating any new node
+ 7. Reverse a circular linked list
+ 8. Given a circular linked list. Split it into two separate circular linked lists without creating new nodes. One will contain all the odd numbers. Another one will contain all the even numbers.
  
  <h1 align="center">.</h1>
 
