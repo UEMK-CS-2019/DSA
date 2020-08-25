@@ -98,7 +98,7 @@
  
  ### [Week-7](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-7)
 
-**`Python` `mid-level`**
+**`C` `mid-level` `Linked list`**
  1. insert an element in a specific position in doubly linked list
  2. Delete an element from a given position in doubly linked list
  3. Insert at the beginning and at the end of a doubly linked list
