@@ -7,7 +7,7 @@
 
 [.](https://github.com/xiaowuc2/Research/blob/master/README.md)
 
-<img width="40px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/download.png" align="center"/> Challanege is Active on [**Hackerrank**](https://www.hackerrank.com/contests/da-algo-lab-week-7/challenges) `18/08/20`
+<img width="40px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/download.png" align="center"/> Challanege is Active on [**Hackerrank**](https://www.hackerrank.com/contests/da-algo-lab-week-7/challenges) `25/08/20`
 
 <img width="45px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/logo22.png" align="center"/> **UEMK Students** Submit Assignment on this [**Google Form**](https://forms.gle/w4cda872RVT9ahCg7)
 [.](https://github.com/xiaowuc2/Research/blob/master/README.md)
