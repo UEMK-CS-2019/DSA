@@ -110,7 +110,7 @@
  
  <h1 align="center">.</h1>
  
-  ### [Week-7](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-7)
+  ### [Week-8](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-8)
 
 **`C` `mid-level` `Linked list`**
  1. insert an element in a specific position in doubly linked list
