@@ -1,0 +1,5 @@
+t1 = tuple(int(x) for x in input().split())
+t2 = tuple(int(x) for x in input().split())
+t3 = tuple(int(x) for x in input().split())
+t4 = (t1, t2, t3)
+print(t4)
