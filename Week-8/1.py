@@ -1,0 +1,5 @@
+name = input() 
+age = int(input()) 
+salary = input() 
+address = input()
+print("['{}', {}, {}, '{}']".format(name,age,salary,address))
