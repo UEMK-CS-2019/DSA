@@ -110,7 +110,7 @@
  
  <h1 align="center">.</h1>
  
-  ### [Week-8](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-8)
+  ### [Week-8](https://github.com/UEMK-CS-2019/DSA/tree/master/Week-8)
 
 **`Python` `mid-level`**
  1. create a list having the name,age,salary and address of a person. enter name,age,salary and address as input.
