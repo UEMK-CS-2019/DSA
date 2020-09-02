@@ -112,15 +112,16 @@
  
   ### [Week-8](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-8)
 
-**`C` `mid-level` `Linked list`**
- 1. insert an element in a specific position in doubly linked list
- 2. Delete an element from a given position in doubly linked list
- 3. Insert at the beginning and at the end of a doubly linked list
- 4. Insert elements at the end and the beginning of a circular linked list
- 5. delete an element from a given position in cicular linked list
- 6. Given two sorted doubly linked lists. Merge them into a single one without creating any new node
- 7. Reverse a circular linked list
- 8. Given a circular linked list. Split it into two separate circular linked lists without creating new nodes. One will contain all the odd numbers. Another one will contain all the even numbers.
+**`Python` `mid-level`**
+ 1. create a list having the name,age,salary and address of a person. enter name,age,salary and address as input.
+ 2. take a string as input. use negative slicing to print a substing
+ 3. given a list in python. delete the element of a given position
+ 4. given a list of elements. find the maximum and minimum of the list using library fucntion
+ 5. create a list of tuples.
+ 6. given a string. convert it into a tuple
+ 7. concatinate 3 given tuples
+ 8. given a tuple. find the sum of its elements
+ 9. given a tuple. print its element in between a range
  
  <h1 align="center">.</h1>
 
