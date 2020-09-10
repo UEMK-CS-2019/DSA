@@ -1,0 +1,17 @@
+from queue import LifoQueue 
+stack = LifoQueue(maxsize = 6) 
+stack.put(15)
+a=(input())
+b=(input())
+c=(input())
+d=(input())
+e=(input())
+stack.put(a) 
+stack.put(b) 
+stack.put(c)
+stack.put(d) 
+stack.put(e)
+for i in range(0,6):
+    stack.get()
+print("Stack full:",stack.full())
+print("Stack empty:",stack.empty())
